@@ -8,6 +8,8 @@
 
 ## 2D and 3D cross-platform game engine
 
+自用魔改fork，学习用，勿clone
+
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that
